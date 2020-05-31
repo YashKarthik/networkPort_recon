@@ -7,3 +7,5 @@
                           
      2) web_PortScanner.py - scans specified website for open ports.
                            - user input: website domain name.
+
+###### Please do not use this script for unethical purposes.
